@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1076841102109",
+    "project_id": "appfirebaseclaudiete",
+    "storage_bucket": "appfirebaseclaudiete.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076841102109:android:c6d4e1f87ae2a574de7ff4",
+        "android_client_info": {
+          "package_name": "com.example.appfirebaseclaudiete"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCybzLZ_wD8HAW0ouCK-W8K_Etm0FlHBYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
