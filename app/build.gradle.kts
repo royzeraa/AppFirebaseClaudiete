@@ -58,6 +58,9 @@ dependencies {
     // Firebase Analytics
     implementation("com.google.firebase:firebase-analytics")
 
+    // MQTT - Eclipse Paho Java Client
+    implementation("org.eclipse.paho:org.eclipse.paho.client.mqttv3:1.2.5")
+
     // Pruebas
     testImplementation(libs.junit)
     androidTestImplementation(libs.espresso.core)
